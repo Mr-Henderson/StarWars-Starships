@@ -1,8 +1,7 @@
 {
   "name": "StarWarsStarships",
   "homepage": "https://Mr-Henderson.github.io/StarWars-Starships",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.0",  
   "dependencies": {
     "@types/react": "^16.8.10",
     "@types/react-dom": "^16.8.3",
