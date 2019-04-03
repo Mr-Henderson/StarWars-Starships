@@ -2,7 +2,7 @@
   font-family: 'STAR WARS FONT';
   font-style: normal;
   font-weight: normal;
-  src: local('STARWARS FONT'), url('../fonts/star-wars-font.woff') format('woff');
+  src: local('STAR WARS FONT'), url('../fonts/STARWARS.woff') format('woff');
   }
   
   h1 {
@@ -11,8 +11,7 @@
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
       
  }
-
-    
+  
   h2 {
     font-family: 'STAR WARS FONT';
     font-weight: 100;
@@ -21,7 +20,7 @@
   }
   
   p {
-    /* font-family: 'STAR WARS FONT'; */
+    font-family: 'STAR WARS FONT';
     font: 1em sans-serif;
     text-align: left;
     color: white;

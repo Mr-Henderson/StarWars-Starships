@@ -49,8 +49,8 @@ class App extends Component {
 				<h1 className='tc f-subheadline'>Loading ...</h1> :
 				(
 					<div className='tc'>
-						<h1 className='f-subheadline'>Star Wars</h1>
-						<h2 className='f1'>Starships</h2>	
+						<h1 className='f-subheadline'>STAR WARS</h1>
+						<h2 className='f1'>STARSHIPS</h2>	
 						<SearchBox searchChange={this.onSearchChange}/><br/>
 						<Scroll>
 							<br/><StarshipList starships={filteredStarships}/>
